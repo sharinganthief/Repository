@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testRead", "testRead\testRead.csproj", "{300C7DA6-3DA9-43A8-93A5-9DD1A9A4D14F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "..\..\..\GitHub\MoviePicker\Helpers\Helpers.csproj", "{94A0A9C7-198E-43FF-8CEC-2CFC46EFE211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300C7DA6-3DA9-43A8-93A5-9DD1A9A4D14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300C7DA6-3DA9-43A8-93A5-9DD1A9A4D14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300C7DA6-3DA9-43A8-93A5-9DD1A9A4D14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300C7DA6-3DA9-43A8-93A5-9DD1A9A4D14F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A0A9C7-198E-43FF-8CEC-2CFC46EFE211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A0A9C7-198E-43FF-8CEC-2CFC46EFE211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A0A9C7-198E-43FF-8CEC-2CFC46EFE211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A0A9C7-198E-43FF-8CEC-2CFC46EFE211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
