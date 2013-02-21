@@ -1,0 +1,5 @@
+C:\Users\Kal-El\Documents\Visual Studio 2012\Projects\Optimus\Optimus\bin\Debug\Optimus.dll
+C:\Users\Kal-El\Documents\Visual Studio 2012\Projects\Optimus\Optimus\bin\Debug\Optimus.pdb
+C:\Users\Kal-El\Documents\Visual Studio 2012\Projects\Optimus\Optimus\obj\Debug\Optimus.csprojResolveAssemblyReference.cache
+C:\Users\Kal-El\Documents\Visual Studio 2012\Projects\Optimus\Optimus\obj\Debug\Optimus.dll
+C:\Users\Kal-El\Documents\Visual Studio 2012\Projects\Optimus\Optimus\obj\Debug\Optimus.pdb
