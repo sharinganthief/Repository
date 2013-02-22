@@ -1,0 +1,6 @@
+c:\users\sharbison\documents\visual studio 2012\Projects\Modulo\Modulo\bin\Debug\Modulo.exe.config
+c:\users\sharbison\documents\visual studio 2012\Projects\Modulo\Modulo\bin\Debug\Modulo.exe
+c:\users\sharbison\documents\visual studio 2012\Projects\Modulo\Modulo\bin\Debug\Modulo.pdb
+c:\users\sharbison\documents\visual studio 2012\Projects\Modulo\Modulo\obj\Debug\Modulo.csprojResolveAssemblyReference.cache
+c:\users\sharbison\documents\visual studio 2012\Projects\Modulo\Modulo\obj\Debug\Modulo.exe
+c:\users\sharbison\documents\visual studio 2012\Projects\Modulo\Modulo\obj\Debug\Modulo.pdb
