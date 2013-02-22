@@ -22,6 +22,7 @@ namespace OptimusConsole
 			BigInteger y = ReadNumber(string.Format("D:\\Muthafucking Numbers yo\\big ass mafuckin number 1.txt"));
 
 			int pow = ( int ) Math.Pow( 2, fileNum);
+
 			Helpers.Reporting.WriteStart("Returning to last square: {0}");
 			Console.WriteLine("will square {0} times to return to previous end number", fileNum);
 			for (int i = 0; i < fileNum; i++)
