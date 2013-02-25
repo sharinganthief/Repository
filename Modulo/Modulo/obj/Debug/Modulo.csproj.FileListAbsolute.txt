@@ -5,8 +5,10 @@ c:\users\sharbison\documents\visual studio 2012\Projects\Modulo\Modulo\obj\Debug
 c:\users\sharbison\documents\visual studio 2012\Projects\Modulo\Modulo\obj\Debug\Modulo.exe
 c:\users\sharbison\documents\visual studio 2012\Projects\Modulo\Modulo\obj\Debug\Modulo.pdb
 C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\bin\Debug\Modulo.exe.config
-C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\obj\Debug\Modulo.exe
-C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\obj\Debug\Modulo.pdb
 C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\bin\Debug\Modulo.exe
 C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\bin\Debug\Modulo.pdb
+C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\bin\Debug\Helpers.dll
+C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\bin\Debug\Helpers.pdb
+C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\obj\Debug\Modulo.exe
+C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\obj\Debug\Modulo.pdb
 C:\Users\sharbison\Documents\GitHub\Repository\Modulo\Modulo\obj\Debug\Modulo.csprojResolveAssemblyReference.cache
