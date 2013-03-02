@@ -172,10 +172,54 @@ namespace Modulo
             //if x = 0 then , etc, restart loop
             //if no x = 0 value returned, testnumber prime, add to file at end then (parts[k] = testNumber, k++)
             //testNumber = testNumber + 2, i = 0, j = 0, etc, restart loop
-              
-             
-
+            
             // end get list
+
+            testNumber = 982451657;
+            int y = (int)0.5;
+            BigInteger stopper = Math.Sqrt(testNumber);
+
+            List<BigInteger> primeList = new List<BigInteger>();
+            List<string> partsList = new List<string>();
+
+            bool restart;
+            do
+            {
+                restart = false;
+
+                foreach (string divisor in partsList)
+                {
+
+                    BigInteger divisorAsInt;
+                    // ! = not; if it doesnt parse, go to the next divisor
+                    if (!BigInteger.TryParse(divisor, out divisorAsInt))
+                    {
+                        Console.WriteLine("[ {0} ] is an invalid divisor.", divisor);
+                        continue;
+
+                    }
+
+                    BigInteger x = testNumber % divisorAsInt;
+
+                    if (x == 0)
+                    {
+                        Console.WriteLine("{0} not prime.", testNumber);
+
+                        testNumber = testNumber + 2;
+                        restart = true;
+                        break; // Leave the inner loop 
+                    }
+                    Console.WriteLine("{0} is prime.", testNumber);
+                    primeList.Add(testNumber);
+
+                    // then (parts[k] = testNumber, k++)
+
+                    //testNumber = testNumber + 2, i = 0, j = 0, etc, restart loop
+
+                }// End foreach
+
+            } while (restart);
+
         }
     }
 }

@@ -17,3 +17,6 @@ c:\users\kal-el\documents\visual studio 2012\Projects\testRead\testRead\bin\Debu
 c:\users\kal-el\documents\visual studio 2012\Projects\testRead\testRead\obj\Debug\testRead.csprojResolveAssemblyReference.cache
 c:\users\kal-el\documents\visual studio 2012\Projects\testRead\testRead\obj\Debug\testRead.exe
 c:\users\kal-el\documents\visual studio 2012\Projects\testRead\testRead\obj\Debug\testRead.pdb
+C:\Users\sharbison\Documents\GitHub\Repository\testRead\testRead\bin\Debug\testRead.exe.config
+C:\Users\sharbison\Documents\GitHub\Repository\testRead\testRead\obj\Debug\testRead.exe
+C:\Users\sharbison\Documents\GitHub\Repository\testRead\testRead\obj\Debug\testRead.pdb

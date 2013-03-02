@@ -22,3 +22,6 @@ C:\Users\Kal-El\Documents\Visual Studio 2012\Projects\OptimusConsole\OptimusCons
 C:\Users\Kal-El\Documents\GitHub\Repository\OptimusConsole\OptimusConsole\bin\Debug\OptimusConsole.exe.config
 C:\Users\Kal-El\Documents\GitHub\Repository\OptimusConsole\OptimusConsole\obj\Debug\OptimusConsole.exe
 C:\Users\Kal-El\Documents\GitHub\Repository\OptimusConsole\OptimusConsole\obj\Debug\OptimusConsole.pdb
+C:\Users\sharbison\Documents\GitHub\Repository\OptimusConsole\OptimusConsole\bin\Debug\OptimusConsole.exe.config
+C:\Users\sharbison\Documents\GitHub\Repository\OptimusConsole\OptimusConsole\obj\Debug\OptimusConsole.exe
+C:\Users\sharbison\Documents\GitHub\Repository\OptimusConsole\OptimusConsole\obj\Debug\OptimusConsole.pdb

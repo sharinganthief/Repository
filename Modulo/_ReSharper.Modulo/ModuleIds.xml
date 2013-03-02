@@ -1,3 +1,5 @@
 <Modules>
   <Module PersistentId="F6C0F918-517D-40F2-A37B-66BB5C8CF4CD" ModuleId="Modulo" />
+  <Module PersistentId="Helpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="Helpers" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
 </Modules>
